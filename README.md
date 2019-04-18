@@ -12,4 +12,6 @@ utils.py creates groups and confidence estimates based on bayesian or MLE infere
 train.py is the main function to create groups, confidene scores and trains a neuralNet for representation learning
 
 To run:
-python train.py
+python train.py  
+
+Data removed due to privacy protection.
