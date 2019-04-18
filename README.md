@@ -1,4 +1,4 @@
-# Representation-Learning-with-crowdsourced-Labels
+# Phonological Fluency Scorer
 The source code for Phonological Fluency Scorer, "Dolphin: A Verbal Fluency Evaluation System for Elementary Education".
 
 Dependency:  
